@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585805312 source:c:\users\sysadmin\desktop\nishu\codeforces\business trip\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

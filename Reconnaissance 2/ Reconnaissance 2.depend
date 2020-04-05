@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585381261 source:c:\users\sysadmin\desktop\nishu\codeforces\ reconnaissance 2\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+

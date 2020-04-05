@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585378517 source:c:\users\sysadmin\desktop\nishu\codeforces\pythagorean theoram\main.cpp
+	<iostream>
+	<math.h>
+

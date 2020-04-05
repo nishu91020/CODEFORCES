@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586025017 source:c:\users\sysadmin\desktop\nishu\codeforces\chat room\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
